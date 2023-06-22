@@ -10,10 +10,10 @@ require (
 	github.com/gorilla/mux v1.8.0
 	github.com/gorilla/schema v1.2.0
 	github.com/neurosnap/sentences v1.1.2
-	github.com/pkoukk/tiktoken-go v0.1.0
+	github.com/pkoukk/tiktoken-go v0.1.3
 	github.com/saintfish/chardet v0.0.0-20230101081208-5e3ef4b5456d
-	github.com/sashabaranov/go-openai v1.6.1
-	golang.org/x/text v0.8.0
+	github.com/sashabaranov/go-openai v1.11.3
+	golang.org/x/text v0.10.0
 )
 
 require (

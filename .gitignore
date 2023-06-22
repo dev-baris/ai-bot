@@ -6,7 +6,7 @@ npm-debug.log*
 
 # private keys
 # /secret/
-secret/*
+# secret/*
 
 # Dependency directories
 node_modules
