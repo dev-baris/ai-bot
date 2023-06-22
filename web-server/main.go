@@ -190,7 +190,7 @@ func ServeIndex(w http.ResponseWriter, r *http.Request, meta serverutil.SiteConf
 	localSiteConfig["MetaTitle"] = replaceEmpty(localSiteConfig["MetaTitle"], "AI-Bot | AI with Long-Term Memory")
 	localSiteConfig["MetaType"] = replaceEmpty(localSiteConfig["MetaType"], "website")
 	localSiteConfig["MetaDescription"] = replaceEmpty(localSiteConfig["MetaDescription"],
-		"Upload multiple files (such as PDFs, text documents, and ePubs) to use as context when posing questions to OpenAI.")
+		"Upload multiple files (.pdf, .txt, .rtf, .docx, .epub) to use as context when posing questions to OpenAI.")
 	localSiteConfig["TwitterUsername"] = replaceEmpty(localSiteConfig["TwitterUsername"], "@kitoborcom")
 	localSiteConfig["MetaKeywords"] = replaceEmpty(localSiteConfig["MetaKeywords"], "Artificial Intelligence, Analysis, Memory")
 	localSiteConfig["PageTitle"] = replaceEmpty(localSiteConfig["PageTitle"], "AI-Bot")

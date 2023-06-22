@@ -3,7 +3,7 @@
         "PageTitle": "AI-Bot",
         "PageIcon": "/img/logo.png",
         "MetaTitle": "AI-Bot | AI with Long-Term Memory",
-        "MetaDescription": "Upload multiple files (such as PDFs, text documents, and ePubs) to use as context when posing questions to OpenAI.",
+        "MetaDescription": "Upload multiple files (.pdf, .txt, .rtf, .docx, .epub) to use as context when posing questions to OpenAI.",
         "MetaVideo": "!",
         "MetaType": "website",
         "MetaImage": "/img/library.png",
