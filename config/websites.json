@@ -1,0 +1,14 @@
+{
+    "bot.pyapay.cloud/": {
+        "PageTitle": "AI-Bot",
+        "PageIcon": "/img/logo.png",
+        "MetaTitle": "AI-Bot | AI with long-term Memory",
+        "MetaDescription": "Upload multiple files (such as PDFs, text documents, and ePubs) to use as context when posing questions to OpenAI.",
+        "MetaVideo": "!",
+        "MetaType": "website",
+        "MetaImage": "/img/library.png",
+        "MetaUrl": "https://pyapay.cloud",
+        "TwitterUsername": "@kitoborcom",
+        "MetaKeywords": "Artificial Intelligence, Analysis, Memory"
+    }
+}
